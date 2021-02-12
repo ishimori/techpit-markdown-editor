@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/techpit-markdown-editor/static/js/main.679d9886.chunk.js",
-    "main.js.map": "/techpit-markdown-editor/static/js/main.679d9886.chunk.js.map",
+    "main.js": "/techpit-markdown-editor/static/js/main.fbd2e316.chunk.js",
+    "main.js.map": "/techpit-markdown-editor/static/js/main.fbd2e316.chunk.js.map",
     "runtime-main.js": "/techpit-markdown-editor/static/js/runtime-main.0b0ad94c.js",
     "runtime-main.js.map": "/techpit-markdown-editor/static/js/runtime-main.0b0ad94c.js.map",
-    "static/js/2.3e775ee7.chunk.js": "/techpit-markdown-editor/static/js/2.3e775ee7.chunk.js",
-    "static/js/2.3e775ee7.chunk.js.map": "/techpit-markdown-editor/static/js/2.3e775ee7.chunk.js.map",
+    "static/js/2.3400ad85.chunk.js": "/techpit-markdown-editor/static/js/2.3400ad85.chunk.js",
+    "static/js/2.3400ad85.chunk.js.map": "/techpit-markdown-editor/static/js/2.3400ad85.chunk.js.map",
     "index.html": "/techpit-markdown-editor/index.html",
-    "static/js/2.3e775ee7.chunk.js.LICENSE.txt": "/techpit-markdown-editor/static/js/2.3e775ee7.chunk.js.LICENSE.txt"
+    "static/js/2.3400ad85.chunk.js.LICENSE.txt": "/techpit-markdown-editor/static/js/2.3400ad85.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0b0ad94c.js",
-    "static/js/2.3e775ee7.chunk.js",
-    "static/js/main.679d9886.chunk.js"
+    "static/js/2.3400ad85.chunk.js",
+    "static/js/main.fbd2e316.chunk.js"
   ]
 }
