@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/techpit-markdown-editor/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/techpit-markdown-editor/static/js/main.0d6241e8.chunk.js",
-    "main.js.map": "/techpit-markdown-editor/static/js/main.0d6241e8.chunk.js.map",
+    "main.js": "/techpit-markdown-editor/static/js/main.a594f945.chunk.js",
+    "main.js.map": "/techpit-markdown-editor/static/js/main.a594f945.chunk.js.map",
     "runtime-main.js": "/techpit-markdown-editor/static/js/runtime-main.f8b2f5cd.js",
     "runtime-main.js.map": "/techpit-markdown-editor/static/js/runtime-main.f8b2f5cd.js.map",
     "static/js/2.5553cd64.chunk.js": "/techpit-markdown-editor/static/js/2.5553cd64.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.d6a0d696.chunk.js.map": "/techpit-markdown-editor/static/js/3.d6a0d696.chunk.js.map",
     "index.html": "/techpit-markdown-editor/index.html",
     "static/css/main.7d180cbf.chunk.css.map": "/techpit-markdown-editor/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.5553cd64.chunk.js.LICENSE.txt": "/techpit-markdown-editor/static/js/2.5553cd64.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/techpit-markdown-editor/static/media/logo.6ce24c58.svg"
+    "static/js/2.5553cd64.chunk.js.LICENSE.txt": "/techpit-markdown-editor/static/js/2.5553cd64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f8b2f5cd.js",
     "static/js/2.5553cd64.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.0d6241e8.chunk.js"
+    "static/js/main.a594f945.chunk.js"
   ]
 }
