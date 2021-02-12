@@ -5,6 +5,7 @@ import ReactMarkdown from "react-markdown";
 import { putMemo } from "indexeddb/memo";
 import { Button } from "components/button";
 import { SaveModal } from "components/save_modal";
+import { Link } from "react-router-dom";
 
 const StorageKey = "pages/editor:test";
 
@@ -67,6 +68,7 @@ export const Editor: React.FC = () => {
       <Header>
         <HeaderControl>
           <Button onClick={() => setShowModal(true)}>保存する</Button>
+          <Link to="/history">履歴を見る</Link>
         </HeaderControl>
       </Header>
       <Wrapper>
