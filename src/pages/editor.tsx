@@ -1,6 +1,8 @@
 import * as React from "react";
 import styled from "styled-components";
-const { useState } = React;
+import { useStateWithStorage } from "../hooks/use_state_with_storage";
+
+const StorageKey = "pages/editor:test";
 
 const Header = styled.header`
   font-size: 1.5rem;
@@ -45,7 +47,7 @@ const Preview = styled.div`
 `;
 
 export const Editor: React.FC = () => {
-  const [text, setText] = useState<string>("");
+  const [text, setText] = useStateWithStorage("", StorageKey);
   return (
     <>
       <Header>Markdown Editor</Header>
